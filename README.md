@@ -38,7 +38,7 @@ Se realizó un estudio de mercado para evaluar el potencial de abrir un café re
 ### Paso 3: Preparación de la Presentación
 
 - **Presentación**:
-  - Se preparó una presentación en formato PDF para compartir con inversionistas. [Ver presentación](<enlace_a_presentacion>).
+  - Se preparó una presentación en formato PDF para compartir con inversionistas.).
 
 ## Descripción de los Datos
 
